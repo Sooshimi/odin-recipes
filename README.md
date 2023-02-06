@@ -1,6 +1,8 @@
 # odin-recipes
 The Odin Project
 
+Link: https://sooshimi.github.io/odin-recipes/
+
 Project #1: HTML Recipes Page
 
 Learning points:
