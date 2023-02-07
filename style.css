@@ -1,0 +1,37 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+}
+
+div {
+    text-align: center;
+}
+
+.title {
+    color: black;
+    background-color: white;
+    padding: 5px;
+}
+
+.title.sub-headers {
+    display:inline-block;
+    padding: 3px;
+}
+
+.recipe {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.recipe-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    width: 50%;
+    height: 500px;
+    width: auto;
+}
