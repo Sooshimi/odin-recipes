@@ -22,6 +22,6 @@ URL: <https://sooshimi.github.io/odin-recipes/>
 **CSS Learning points**:
 
 - Create and use external CSS stylesheet to add styles to HTML
-- Use classes attributes (avoided use of IDs for now, as they were not required)
+- Use class attributes (avoided use of ID's for now, as they were not required)
 - Add styles to specific elements using various appropriate selectors
 - Considering cascading, such as specificity and rule order
